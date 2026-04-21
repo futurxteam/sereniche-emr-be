@@ -54,7 +54,7 @@ pip = "==25.3"
 
 [dev-packages]
 boto3-stubs = { extras = ["s3", "boto3"], version = "*" }
-coverage = "==7.13.0"
+coverage = "==7.13.5"
 debugpy = "==1.8.17"
 django-coverage-plugin = "==3.2.0"
 django-extensions = "==4.1"
